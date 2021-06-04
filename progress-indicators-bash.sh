@@ -30,6 +30,7 @@ function progressIndicator(){
     done
 }
 
+# Nice Spinner
 Spinner() {
     local i sp n
     sp='/-\|'
